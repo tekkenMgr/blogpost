@@ -1,0 +1,15 @@
+.Post {
+  width: 20%;
+  margin: 10px;
+  border: 1px solid #eee;
+  box-shadow: 0 2px 3px #ccc;
+  padding: 16px;
+  text-align: center;
+  box-sizing: border-box;
+  cursor: pointer;
+  display: inline-block;
+}
+
+.Author {
+  color: rgba(148, 142, 142, 0.774);
+}
